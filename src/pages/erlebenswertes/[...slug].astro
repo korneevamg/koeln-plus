@@ -1,0 +1,66 @@
+---
+import { Breadcrumbs, BreadcrumbsItem } from "accessible-astro-components";
+import { getCollection } from "astro:content";
+import DefaultLayout from "../../layouts/DefaultLayout.astro";
+
+export async function getStaticPaths() {
+  const data = await getCollection("sights");
+
+  return data.map((post) => {
+    return {
+      params: {
+        post: post.data.title.replaceAll(" ", "-").toLowerCase(),
+        slug: post.slug,
+      },
+      props: { post },
+    };
+  });
+}
+
+const { post } = Astro.props;
+const { Content } = await post.render();
+---
+
+<DefaultLayout
+  title={post.data.title}
+  description={post.data.description}
+  url={post.data.title}
+>
+  <div class="container">
+    <div class="mt-12">
+      <Breadcrumbs>
+        <BreadcrumbsItem href="/" label="Startseite" />
+        <BreadcrumbsItem href="/erlebenswertes" label="Erlebenswertes" />
+        <BreadcrumbsItem currentPage={true} label={post.data.title} />
+      </Breadcrumbs>
+    </div>
+  </div>
+  <section class="my-12">
+    <div class="container">
+      <p>Tags: {post.data.tags}</p>
+    </div>
+  </section>
+  <section class="my-12">
+    <div class="container">
+      <p class="text-2xl">{post.data.description}</p>
+      <Content />
+    </div>
+  </section>
+</DefaultLayout>
+
+<style lang="scss">
+  ul {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 4rem;
+
+    @media (min-width: 550px) {
+      grid-template-columns: repeat(2, 1fr);
+      grid-gap: 2rem;
+    }
+
+    @media (min-width: 950px) {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+</style>
