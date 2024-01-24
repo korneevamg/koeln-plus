@@ -22,7 +22,7 @@ const { title, description, image, author } = Astro.props;
       description={description.substring(0, 100)}
       url={Astro.site
         ? `${Astro.site}/${title.toLowerCase().replaceAll(" ", "-")}`
-        : `https://main--koeln-plus.netlify.app/${title
+        : `https://koeln-plus.netlify.app/${title
             .toLowerCase()
             .replaceAll(" ", "-")}`}
       image={image}

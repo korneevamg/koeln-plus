@@ -1,8 +1,9 @@
 ---
-import { Accordion, AccordionItem } from "accessible-astro-components";
+import { Accordion } from "accessible-astro-components";
 import { getCollection } from "astro:content";
 import SightsList from "../components/SightsList.astro";
 import DefaultLayout from "../layouts/DefaultLayout.astro";
+import AccordionItem from "../components/AccordionItem.astro";
 
 export const guidedTours = await getCollection("sights", ({ data }) =>
   data.tags.includes("guided-tours")
