@@ -2,7 +2,7 @@
 title: "TurmX - Urbane Kletterhalle in Köln"
 description: "Erleben Sie die Herausforderung und den Spaß des urbanen Kletterns in der TurmX Kletterhalle in Köln, einem Paradies für Kletterfans aller Niveaus"
 image: { url: "", alt: "TurmX Köln" }
-tags: ["freizeit", "Klettern", "Sport", "Abenteuer", "Köln"]
+tags: ["draussen", "sights"]
 ---
 
 # TurmX - Urbane Kletterhalle in Köln
@@ -19,7 +19,6 @@ TurmX in Köln ist ein modernes Kletterzentrum, das sowohl Anfängern als auch e
 
 ## Besucherinformation
 
-- **Adresse**: TurmX befindet sich in Köln.
 - **Öffnungszeiten und Eintritt**: Informationen zu Öffnungszeiten, Eintrittspreisen und Kursangeboten finden Sie auf der Website: [TurmX Köln](https://turmx.de).
 - **Für alle Niveaus**: Egal, ob Sie gerade erst mit dem Klettern beginnen oder schon erfahrener Kletterer sind, TurmX hat Herausforderungen für jeden.
 

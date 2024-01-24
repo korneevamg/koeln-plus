@@ -2,7 +2,7 @@
 title: "Klugscheißen für Schnaps – Limes"
 description: "Wöchentliches Quizspiel im Limes"
 image: { url: "", alt: "Klugscheißen für Schnaps im Limes" }
-tags: ["Event"]
+tags: ["drinnen", "sights"]
 ---
 
 # Klugscheißen für Schnaps – Limes

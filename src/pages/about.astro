@@ -3,33 +3,94 @@ import DefaultLayout from "../layouts/DefaultLayout.astro";
 ---
 
 <DefaultLayout title="Über dieses Projekt" description="Über dieses Projekt">
+  <div class="my-12"><h1 class="container">Über dieses Projekt</h1></div>
+
   <section class="my-12">
-    <div class="space-content container">
-      <h1>Über dieses Projekt</h1>
-      <section></section>
-      <h2>Quellen</h2>
-      <ul>
-        <li>Mit Vergnügen</li>
-        <li>Rausgegangen</li>
-        <li>Newsletter Stadtbibliothek</li>
-        <li>Events Facebook</li>
-        <li>Events VHS</li>
-        <li>Events Dumont</li>
+    <div class="container">
+      <h2 class="mb-4">Fehlt hier irgendwas?</h2>
+      <p>
+        Hast du eine Idee oder einen Geheimtipp, der auf dieser Seite fehlen
+        könnte? Du kannst deine Vorschläge gerne einbringen! Hierfür gibt es
+        zwei Möglichkeiten:
+      </p>
+      <ol class="my-4 leading-loose">
+        <li>
+          Erstelle einen Pull Request auf <a
+            href="https://github.com/korneevamg/koeln-plus">GitHub</a
+          >
+        </li>
+        <li>
+          oder<br />
+          <a href="hhttps://twitter.com/browserperson"
+            >Kontaktiere die Autorin direkt auf Twitter</a
+          >.
+        </li>
+      </ol>
+      <p>
+        Bitte beachte, dass diese Plattform nicht für kommerzielles Marketing
+        verwendet wird. Alle Beiträge sollten darauf abzielen, die Vielfalt und
+        Schönheit von Köln und Umgebung zu zeigen.
+      </p>
+    </div>
+  </section>
+  <section class="my-12">
+    <div class="container">
+      <h2 class="mb-4">Quellen</h2>
+      <p>
+        Natürlich ist Köln Plus nicht alleine. Es gibt viele tolle Übersichten
+        von Kölner Sehenswürdingkeiten und Events. Meine Inspiration schöpfe ich
+        unter anderem aus folgenden Quellen:
+      </p>
+      <ul class="my-4 leading-loose">
+        <li>
+          <a href="https://koeln.mitvergnuegen.com/">Mit Vergnügen Köln</a>
+        </li>
+        <li><a href="https://rausgegangen.de/en/">Rausgegangen</a></li>
+        <li>
+          <a href="https://www.facebook.com/events/">Events Facebook</a>
+        </li>
+        <li>
+          <a href="http://www.koeln.de/tourismus/koeln_entdecken/111_orte"
+            >111 Orte</a
+          >
+        </li>
       </ul>
     </div>
   </section>
-  <section>
-    <div class="space-content container">
-      <h2>Wie und womit habe ich diese Seite gebaut?</h2>
-      <a href="https://docs.astro.build/en/getting-started/">Astro</a>
-      <a href="https://www.netlify.com">Netlify</a>
-      <a href="https://github.com/markteekman/accessible-astro-starter"
-        >Accessibility Astro Starter</a
-      >
-      <a href="https://chat.openai.com">ChatGPT</a>
-      <a href="http://www.koeln.de/tourismus/koeln_entdecken/111_orte"
-        >111 Orte</a
-      >
+  <section class="my-12">
+    <div class="container">
+      <h2 class="mb-4">Wie und womit habe ich diese Seite gebaut?</h2>
+      Dieses Projekt ist open-source. Das heißt, du kannst der Source Code einsehen
+      und gerne deine Code-Verbesserungen einreichen. Hier findest du den aktuellen
+      Techstack, sprich, die Technologien, Frameworks und Tools, die ich bei der
+      Erstellung verwendet habe:
+      <ul class="my-4 leading-loose">
+        <li>
+          <a href="https://docs.astro.build/en/getting-started/">Astro</a>: Ein
+          modernes Framework für schnelle Websites.
+        </li>
+        <li>
+          <a href="https://github.com/markteekman/accessible-astro-starter"
+            >Accessibility Astro Starter</a
+          >: Ein Starter-Kit, das auf Barrierefreiheit ausgerichtet ist.
+        </li>
+        <li>
+          <a href="https://www.astroicon.dev/guides/styling/">Astro Icon</a>:
+          Für aussagekräftige Symbole.
+        </li>
+        <li>
+          <a href="https://www.netlify.com">Netlify</a>: Für das Hosting und
+          automatische Updates der Website.
+        </li>
+        <li>
+          <a href="https://tailwindcss.com/">Tailwind CSS</a>: Für das moderne
+          und responsive Design.
+        </li>
+        <li>
+          <a href="https://chat.openai.com">ChatGPT</a>: Für automatisierte und
+          kurierte Inhaltsgenerierung.
+        </li>
+      </ul>
     </div>
   </section>
 </DefaultLayout>

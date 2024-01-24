@@ -1,8 +1,12 @@
 ---
 title: "OBI Create: DIY-Workshop am Blackfoot Beach"
 description: "Tauchen Sie ein in die Welt des Selbermachens mit dem OBI Create DIY-Workshop am idyllischen Blackfoot Beach in Köln"
-image: { url: "", alt: "OBI Create DIY-Workshop" }
-tags: ["freizeit", "Workshop", "DIY", "Kreativität", "Köln"]
+image:
+  {
+    url: "https://location.koelntourismus.de/images/4tone8nbd_4-/do-it-yourself-workshop.jpeg",
+    alt: "OBI Create DIY-Workshop",
+  }
+tags: ["drinnen", "events"]
 ---
 
 # OBI Create: DIY-Workshop am Blackfoot Beach

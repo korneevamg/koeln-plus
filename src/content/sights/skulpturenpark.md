@@ -2,7 +2,7 @@
 title: "Skulpturenpark Köln"
 description: "Erleben Sie die einzigartige Kombination aus moderner Skulpturkunst und malerischer Natur im Skulpturenpark Köln"
 image: { url: "", alt: "Skulpturenpark Köln" }
-tags: ["freizeit", "Kunst", "Skulpturen", "Park", "Köln"]
+tags: ["draussen", "sights"]
 ---
 
 # Skulpturenpark Köln

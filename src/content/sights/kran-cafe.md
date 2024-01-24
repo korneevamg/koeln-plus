@@ -2,7 +2,7 @@
 title: "Kran-Café in Köln"
 description: "Besuchen Sie das Kran-Café in Köln für ein unvergessliches Café-Erlebnis in einem umgebauten Hafenkran, das eine atemberaubende Aussicht und exzellente Gastronomie bietet"
 image: { url: "", alt: "Kran-Café Köln" }
-tags: ["Café", "Einzigartig", "Aussicht", "Köln", "Gastronomie"]
+tags: ["draussen", "sights"]
 ---
 
 # Kran-Café in Köln - AKTUELL GESCHLOSSEN

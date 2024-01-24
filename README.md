@@ -1,65 +1,52 @@
-# Accessible Astro Starter
+# Köln-Plus: Your Gateway to Cologne's Hidden Treasures
 
-![social-preview-image](https://user-images.githubusercontent.com/3909046/219942674-9894853e-def8-4180-84b8-6b577dacfcaa.png)
+Köln-Plus is a meticulously curated guide to Cologne, offering unique insights into well-researched, off-the-beaten-path sights and activities. Our content ranges from hidden gems within Cologne to inspiring ideas for excursions and day trips around the city. Designed for both locals and visitors, Köln-Plus is your companion in exploring Cologne's lesser-known but equally captivating attractions.
 
-Accessible Astro Starter is a ready to use, SEO and a11y friendly blogging theme. It contains plenty of accessible components to build several page types, Tailwind CSS to help you build faster and example pages such as a dynamic Blog, 404, Markdown and MDX. This theme is designed to help you build your project faster and provide a solid base for accessibility!
+🚀 [View the website](https://koeln-plus.netlify.app/)
 
-🚀 [Live Preview](https://accessible-astro.netlify.app/)
+## ☕ Support My Journey
 
-## ♿ (Accessibility) Features
+Every contribution helps us keep Köln-Plus cost-neutral and continuously updated. If you love exploring Cologne's secret corners as much as we do, consider [buying my a coffee or a kölsch](https://www.buymeacoffee.com/koelnplus) to keep the adventure going!
 
-- Astro 4.0
-- Tailwind CSS support
-- Prettier integration with `prettier-plugin-astro` and `prettier-plugin-tailwind`
-- ESLint integration with strict accessibility settings for `eslint-plugin-jsx-a11y`
-- Markdown and MDX support with examples included in the theme
-- Uses the awesome `astro-icon` package for the icons
-- Excellent Lighthouse/PageSpeed scores
-- Accessible landmarks such as `header`, `main`, `footer`, `section` and `nav`
-- Outline focus indicator which works on dark and light backgrounds
-- Several `aria` attributes which provide a better experience for screen reader users
-- `[...page].astro` and `[post].astro` demonstrate the use of dynamic routes and provide a basic blog with breadcrumbs and pagination
-- `404.astro` provides a custom 404 error page which you can adjust to your needs
-- `Header.astro` component included in the `DefaultLayout.astro` layout
-- `Footer.astro` component included in the `DefaultLayout.astro` layout
-- `SkipLinks.astro` component to skip to either the main menu or the main content
-- `Navigation.astro` component with keyboard accessible (dropdown) navigation (arrow keys, escape key)
-- `ResponsiveToggle.astro` component with an accessible responsive toggle button for the mobile navigation
-- `DarkMode.astro` component toggle with accessible button and a user system preferred color scheme setting
-- `SiteMeta.astro` SEO component for setting custom meta data on different pages
-- `.sr-only` utility class for screen reader only text content (hides text visually)
-- `prefers-reduced-motion` disables animations for users that have this preference turned on
-- Ships with many components such as Accordions, Breadcrumbs, Modals, Pagination [and many more](https://accessible-astro.dev/accessible-components)
-- A collection of utility classes such as breakpoints, button classes, font settings, resets and outlines in `src/assets/scss/base`
-- View Transitions (⚠️ see [astro-docs](https://docs.astro.build/en/guides/view-transitions/#accessibility) for accessibility considerations)
+[![buymeacoffee-button](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/koelnplus)
 
-## 🚀 Getting started
+## 🏰 Unique Features
 
-Clone this theme locally and run any of the following commands in your terminal:
+- Focus on hidden and lesser-known sights in and around Cologne
+- Exclusive content on unique excursions and day trips
+- A user-friendly interface that makes exploring Cologne's secrets a breeze
+- A commitment to showcasing the very best of Cologne's hidden culture and history
 
-| Command           | Action                                       |
-| :---------------- | :------------------------------------------- |
-| `npm install`     | Installs dependencies                        |
-| `npm run dev`     | Starts local dev server at `localhost:4321`  |
-| `npm run build`   | Build your production site to `./dist/`      |
-| `npm run preview` | Preview your build locally, before deploying |
+## 🚀 Getting Started
 
-## 📦 Other Accessible Astro projects
+To dive into the wonders of Cologne, follow these simple steps:
 
-- [Accessible Astro Dashboard](https://github.com/markteekman/accessible-astro-dashboard/)
-- [Accessible Astro Components](https://github.com/markteekman/accessible-astro-components/)
+| Command                                              | Action                                     |
+| :--------------------------------------------------- | :----------------------------------------- |
+| `git clone https://github.com/korneevamg/koeln-plus` | Clone the Köln-Plus repository             |
+| `npm install`                                        | Installs dependencies                      |
+| `npm run dev`                                        | Starts local dev server for exploration    |
+| `npm run build`                                      | Build your personalized guide to `./dist/` |
+| `npm run preview`                                    | Preview your Köln-Plus website locally     |
 
-## ❤️ Helping out
+## ❤️ Contributing and Support
 
-If you find that something isn't working right then I'm always happy to hear it to improve this starter! You can contribute in many ways and forms. Let me know by either:
+Found a hidden gem in Cologne that we haven't covered? Or have suggestions to enhance our guide? We'd love to hear from you! You can contribute in various ways:
 
-1. [Filing an issue](https://github.com/markteekman/accessible-astro-starter/issues)
-2. [Submitting a pull request](https://github.com/markteekman/accessible-astro-starter/pulls)
-3. [Starting a discussion](https://github.com/markteekman/accessible-astro-starter/discussions)
-4. [Buying me a coffee!](https://www.buymeacoffee.com/markteekman)
+1. [Filing an issue](https://github.com/korneevamg/koeln-plus/issues)
+2. [Submitting a pull request](https://github.com/korneevamg/koeln-plus/pulls)
+3. [Starting a discussion](https://github.com/korneevamg/koeln-plus/discussions)
+4. [Supporting us on Buy Me a Coffee](https://www.buymeacoffee.com/koelnplus)
 
-## ☕ Thank you!
+## 🛠️ Sources / Tech Stack
 
-A big thank you to the creators of the awesome Astro static site generator and to all using this starter to make the web a bit more accessible for all people around the world :)
+Köln-Plus is built with a variety of modern tools and frameworks, ensuring a seamless and accessible user experience. Our key technologies include:
 
-[![buymeacoffee-button](https://user-images.githubusercontent.com/3909046/150683481-be070424-7bb0-4dd7-a3cb-43b5605163f5.png)](https://www.buymeacoffee.com/markteekman)
+- [Astro](https://docs.astro.build/en/getting-started/): A modern framework for building fast websites.
+- [Accessibility Astro Starter](https://github.com/markteekman/accessible-astro-starter): A starter kit focused on accessibility.
+- [Astro Icon](https://www.astroicon.dev/guides/styling/): For cute Astro Icons
+- [Tailwind CSS](https://tailwindcss.com/): For modern and responsive design.
+- [Netlify](https://www.netlify.com): Used for hosting and automatic updates of the website.
+- [ChatGPT](https://chat.openai.com): For automated yet curated content generation.
+
+While Köln-Plus is a labor of love, we stand on the shoulders of giants. One such giant is the maintainer of the Accessibility Astro Starter. If you've found value in their work as we have, consider [buying them a coffee](https://www.buymeacoffee.com/markteekman) to show your appreciation for their contributions to the developer community.

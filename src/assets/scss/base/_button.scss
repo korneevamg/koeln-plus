@@ -12,7 +12,8 @@
   background-color: var(--primary-100);
   border: 3px solid var(--primary-100);
   border-radius: 3px;
-  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out;
 
   &:hover,
   &:focus {
@@ -139,8 +140,17 @@
       width: 30px;
     }
   }
+
+  &.inverted {
+    background-color: var(--neutral-100);
+  }
 }
 
 .darkmode .button.type-secondary {
   color: var(--neutral-100);
+}
+
+.darkmode .inverted {
+  color: var(--neutral-100);
+  background-color: var(--dark-100);
 }

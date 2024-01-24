@@ -1,0 +1,100 @@
+---
+import { Accordion, AccordionItem } from "accessible-astro-components";
+import { getCollection } from "astro:content";
+import SightsList from "../components/SightsList.astro";
+import DefaultLayout from "../layouts/DefaultLayout.astro";
+
+export const guidedTours = await getCollection("sights", ({ data }) =>
+  data.tags.includes("guided-tours")
+);
+export const events = await getCollection("sights", ({ data }) =>
+  data.tags.includes("events")
+);
+export const ideas = await getCollection("sights", ({ data }) =>
+  data.tags.includes("ideas")
+);
+export const museums = await getCollection("sights", ({ data }) =>
+  data.tags.includes("museums")
+);
+export const sights = await getCollection("sights", ({ data }) =>
+  data.tags.includes("sights")
+);
+---
+
+<DefaultLayout
+  title="Erlebenswertes"
+  description="Liste der Erlebnisse in und rund um Köln"
+>
+  <section class="my-12">
+    <div class="space-content container">
+      <h1>Erlebenswertes</h1>
+      <p class="text-2xl">Liste der Erlebnisse in und rund um Köln.</p>
+    </div>
+    <section class="my-12">
+      <div class="container">
+        <button id="draussenFilter" class="button inverted mb-8 me-4"
+          >Nur drinnen</button
+        >
+        <button id="drinnenFilter" class="button inverted mb-8"
+          >Nur draußen</button
+        >
+        <Accordion>
+          <AccordionItem header="Führungen und Besichtigungen">
+            <SightsList listOfSights={guidedTours} />
+          </AccordionItem>
+          <AccordionItem header="Events">
+            <SightsList listOfSights={events} />
+          </AccordionItem>
+          <AccordionItem header="Ausflugsideen">
+            <SightsList listOfSights={ideas} />
+          </AccordionItem>
+          <AccordionItem header="Museen">
+            <SightsList listOfSights={museums} />
+          </AccordionItem>
+          <AccordionItem header="Sehenswürdigkeiten">
+            <SightsList listOfSights={sights} />
+          </AccordionItem>
+        </Accordion>
+      </div>
+    </section>
+  </section>
+</DefaultLayout>
+<script>
+  let draussenHidden = true;
+  let drinnenHidden = true;
+
+  const filter = (
+    filterActive: boolean,
+    filterClass: string,
+    button: HTMLElement | null
+  ) => {
+    const elementsToBeHidden = document.getElementsByClassName(filterClass);
+    button?.classList.toggle("inverted");
+    for (let i = 0; i < elementsToBeHidden.length; i++) {
+      elementsToBeHidden[i].style.display = filterActive ? "none" : "block";
+    }
+    return !filterActive;
+  };
+
+  const hideDraussen = () => {
+    draussenHidden = filter(draussenHidden, "draussen", draussenFilter);
+  };
+
+  const hideDrinnen = () => {
+    drinnenHidden = filter(drinnenHidden, "drinnen", drinnenFilter);
+  };
+
+  const draussenFilter = document.getElementById("draussenFilter");
+  const drinnenFilter = document.getElementById("drinnenFilter");
+  draussenFilter?.addEventListener("click", hideDraussen);
+  drinnenFilter?.addEventListener("click", hideDrinnen);
+</script>
+<style lang="scss" is:global>
+  .accordion__header {
+    text-align: left;
+  }
+  .header__toggle-indicator {
+    /* Add styles here to ensure the SVG maintains its size */
+    flex-shrink: 0; /* Prevents the icon from shrinking */
+  }
+</style>
