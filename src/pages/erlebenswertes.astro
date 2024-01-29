@@ -74,6 +74,11 @@ export const sights = await getCollection("sights", ({ data }) =>
     for (let i = 0; i < elementsToBeHidden.length; i++) {
       elementsToBeHidden[i].style.display = filterActive ? "none" : "block";
     }
+    // Need to
+    if (elementsToBeHidden.length > 0) {
+      const accordionPanel = elementsToBeHidden[0].closest(`.accordion__panel`);
+      if (accordionPanel) accordionPanel.style.height = "auto";
+    }
     return !filterActive;
   };
 

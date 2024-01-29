@@ -9,6 +9,7 @@ image:
 tags: ["draussen", "guided-tours"]
 ---
 
+[Stadtführungen & Erlebnisse](https://www.koelntourismus.de/buchen/stadtfuehrungen)
 [5 kostenlose Führungen in Köln, die kaum jemand kennt](https://verliebtinkoeln.com/kostenlose-fuehrungen-koeln/)
 [Führungen & Akademieprogramm der Kölner Museen](https://museenkoeln.de/portal/Fuehrungen-Akademieprogramm)
 [9 versteckte Highlights in der Kölner City](https://www.lialo.com/tour/5n1x) - und auch andere Touren bei lialo
