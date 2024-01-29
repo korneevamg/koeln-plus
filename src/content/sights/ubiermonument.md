@@ -2,7 +2,7 @@
 title: "Das Ubiermonument in Köln - Ein historisches Wahrzeichen"
 description: "Entdecken Sie das älteste Steinbauwerk nördlich der Alpen und ein bedeutendes archäologisches Denkmal in Köln"
 image: { url: "", alt: "Ubiermonument in Köln" }
-tags: ["sights"]
+tags: ["draussen", "sights"]
 ---
 
 # Das Ubiermonument in Köln - Ein historisches Wahrzeichen

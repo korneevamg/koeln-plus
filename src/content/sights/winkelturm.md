@@ -6,7 +6,7 @@ image:
     url: "https://welt.unter.koeln/images/winkelturm_koeln_niehl.jpg",
     alt: "Winkelturm Köln-Niehl",
   }
-tags: ["draussen", "sights"]
+tags: ["drinnen", "guided-tours"]
 ---
 
 # Winkelturm in Köln-Niehl

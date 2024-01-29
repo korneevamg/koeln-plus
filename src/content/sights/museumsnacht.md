@@ -6,7 +6,7 @@ image:
     url: "https://www.museumsnacht-koeln.de/images/museumsnacht_header.jpg",
     alt: "Museumsnacht Köln",
   }
-tags: ["drinnen", "events", "museums"]
+tags: ["drinnen", "events"]
 ---
 
 # Museumsnacht Köln

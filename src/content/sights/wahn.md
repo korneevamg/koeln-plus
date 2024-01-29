@@ -6,7 +6,7 @@ image:
     url: "https://www.schloss-wahn.com/images/schloss_wahn_header.jpg",
     alt: "Schloss Wahn",
   }
-tags: ["drinnen", "events", "sights"]
+tags: ["drinnen", "sights"]
 ---
 
 # Schloss Wahn

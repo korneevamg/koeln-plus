@@ -6,7 +6,7 @@ image:
     url: "https://kommern.lvr.de/images/haus_mit_schnee.jpg",
     alt: "LVR-Freilichtmuseum Kommern",
   }
-tags: ["draussen", "museums", "sights"]
+tags: ["draussen", "museums"]
 ---
 
 # LVR-Freilichtmuseum Kommern

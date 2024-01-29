@@ -6,7 +6,7 @@ image:
     url: "https://www.inselhombroich.de/images/museum_insel_hombroich.jpg",
     alt: "Museum Insel Hombroich",
   }
-tags: ["draussen", "museums", "sights"]
+tags: ["draussen", "sights"]
 ---
 
 # Museum Insel Hombroich

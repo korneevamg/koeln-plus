@@ -6,7 +6,7 @@ image:
     url: "https://industriemuseum.lvr.de/images/tuchfabrik_aussenansicht.jpg",
     alt: "LVR-Industriemuseum Tuchfabrik Müller",
   }
-tags: ["drinnen", "museums", "sights"]
+tags: ["drinnen", "museums"]
 ---
 
 # LVR-Industriemuseum Tuchfabrik Müller

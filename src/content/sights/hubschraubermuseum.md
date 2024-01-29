@@ -4,11 +4,9 @@ description: "Entdecke die spannende Geschichte der Hubschrauber und ihre techno
 image:
   {
     url: "https://www.hubschraubermuseum.de/images/museum_aussenansicht.jpg",
-    ? // Beispielfoto des Museums
-      alt
-    : "Hubschraubermuseum Bückeburg",
+    alt: "Hubschraubermuseum Bückeburg",
   }
-tags: ["drinnen", "museums", "sights"]
+tags: ["drinnen", "museums"]
 ---
 
 # Hubschraubermuseum Bückeburg

@@ -6,7 +6,7 @@ image:
     url: "https://www.neanderthal.de/images/neanderthal_museum.jpg",
     alt: "Neanderthal Museum",
   }
-tags: ["drinnen", "museums", "sights"]
+tags: ["drinnen", "museums"]
 ---
 
 # Neanderthal Museum Mettmann
