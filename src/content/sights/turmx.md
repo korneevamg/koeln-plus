@@ -2,7 +2,7 @@
 title: "TurmX - Urbane Kletterhalle in Köln"
 description: "Erleben Sie die Herausforderung und den Spaß des urbanen Kletterns in der TurmX Kletterhalle in Köln, einem Paradies für Kletterfans aller Niveaus"
 image: { url: "", alt: "TurmX Köln" }
-tags: ["draussen", "sights"]
+tags: ["draussen", "sights", "umgebung"]
 ---
 
 # TurmX - Urbane Kletterhalle in Köln

@@ -6,7 +6,7 @@ image:
     url: "https://www.schwerelos-aachen.de/files/content/Header/schwerelos_header01.jpg",
     alt: "Floating-Erlebnis",
   }
-tags: ["drinnen", "ideas"]
+tags: ["drinnen", "ideas", "koeln"]
 ---
 
 # Floating: Entspannung auf dem Wasser

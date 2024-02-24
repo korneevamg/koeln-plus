@@ -6,7 +6,7 @@ image:
     url: "https://i0.wp.com/theaternacht.de/wp-content/uploads/Horizont_Foto_niklasberg-scaled.jpg?resize=1536%2C1025&ssl=1",
     alt: "Kölner Theaternacht",
   }
-tags: ["drinnen", "events"]
+tags: ["drinnen", "events", "koeln"]
 ---
 
 # Kölner Theaternacht

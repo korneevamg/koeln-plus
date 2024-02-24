@@ -2,7 +2,7 @@
 title: "Indianersiedlung in Köln"
 description: "Die Indianersiedlung in Köln ist ein einzigartiges Wohngebiet, bekannt für seine individuelle und kreative Architektur, inspiriert von indianischen Bauformen."
 image: { url: "", alt: "Indianersiedlung Köln" }
-tags: ["draussen", "sights"]
+tags: ["draussen", "sights", "koeln"]
 ---
 
 # Indianersiedlung in Köln

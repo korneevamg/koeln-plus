@@ -2,7 +2,7 @@
 title: "DOMiD - Dokumentationszentrum und Museum über die Migration in Deutschland"
 description: "Das DOMiD in Köln bietet einen tiefen Einblick in die Migrationsgeschichte Deutschlands. Ein zentraler Ort für Dialog, Bildung und Forschung über die vielfältigen Aspekte der Migration."
 image: { url: "", alt: "DOMiD - Museum über die Migration in Deutschland" }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "koeln"]
 ---
 
 # DOMiD - Dokumentationszentrum und Museum über die Migration in Deutschland

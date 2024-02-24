@@ -6,7 +6,7 @@ image:
     url: "https://www.abtei-brauweiler.eu/uploads/images/Gallery/startseite/Boegen_Marienhof.jpg",
     alt: "Abtei Brauweiler Köln",
   }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "koeln"]
 ---
 
 # Abtei Brauweiler: Historische Stätte in Köln

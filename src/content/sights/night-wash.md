@@ -6,7 +6,7 @@ image:
     url: "https://nightwash.de/cnt/News/Luisa_16zu9_m.jpg",
     alt: "NightWash Live im Waschsalon",
   }
-tags: ["drinnen", "events"]
+tags: ["drinnen", "events", "koeln"]
 ---
 
 # NightWash Live im Waschsalon

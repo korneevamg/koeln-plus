@@ -6,7 +6,7 @@ image:
     url: "https://web.cdn.rheinenergie.com/cms/media/pictures/double_teaser/Fuhrung-Fernwarmetunnel_DoubleTeaserTabletPortrait_2x.webp",
     alt: "Fernwärmetunnel der RheinEnergie",
   }
-tags: ["drinnen", "guided-tours"]
+tags: ["drinnen", "guided-tours", "koeln"]
 ---
 
 # Fernwärmetunnel der RheinEnergie

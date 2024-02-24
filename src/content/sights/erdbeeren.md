@@ -6,7 +6,7 @@ image:
     url: "https://koeln.mitvergnuegen.com/resizer/images/7b227769647468223a313238302c22686569676874223a3732307d/wp-content/uploads/sites/4/2020/05/strawberries-3359755_1920-1.jpg.webp",
     alt: "Erdbeeren Selber Pflücken",
   }
-tags: ["draussen", "ideas"]
+tags: ["draussen", "ideas", "koeln"]
 ---
 
 # Erdbeeren Selber Pflücken

@@ -6,7 +6,7 @@ image:
     url: "https://www.rimini-protokoll.de/website/cache/images/media/The%20Walks/Fotoauswahl_credit_%20Expander%20Film/1280-DSC01025.jpg",
     alt: "The Walks - Rimini Protokoll",
   }
-tags: ["draussen", "guided-tours"]
+tags: ["draussen", "guided-tours", "koeln"]
 ---
 
 # The Walks - Rimini Protokoll

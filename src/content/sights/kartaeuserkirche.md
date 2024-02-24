@@ -6,7 +6,7 @@ image:
     url: "https://edge.churchdesk.com/event-26154303/span12_16-9/public/o/2709/0b28b3f8-0998-40b7-996f-4a950013241b.jpeg?c=NNN",
     alt: "Kloster Chillin' Kartäuserkirche Köln",
   }
-tags: ["drinnen", "draussen", "events"]
+tags: ["drinnen", "draussen", "events", "koeln"]
 ---
 
 # Kloster Chillin' in der Kartäuserkirche Köln

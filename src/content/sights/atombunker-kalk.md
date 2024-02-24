@@ -2,7 +2,7 @@
 title: "Atombunkerführung Köln-Kalk"
 description: "Entdecken Sie die Geschichte des Kalten Krieges bei einer Führung durch den Zivilschutzbunker Köln-Kalk, eine der wenigen erhaltenen Zivilschutzanlagen in Köln."
 image: { url: "", alt: "Atombunker Köln-Kalk" }
-tags: ["drinnen", "guided-tours"]
+tags: ["drinnen", "guided-tours", "koeln"]
 ---
 
 # Atombunkerführung Köln-Kalk

@@ -6,7 +6,7 @@ image:
     url: "https://www.domforum.de/export/sites/domforum-neu/.galleries/bilder/full-width/_DSC4861.JPG_2105871866.jpg",
     alt: "Kirchenführungen in Köln",
   }
-tags: ["drinnen", "guided-tours"]
+tags: ["drinnen", "guided-tours", "koeln"]
 ---
 
 # Kirchenführungen in Köln

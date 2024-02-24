@@ -6,7 +6,7 @@ image:
     url: "https://i.ytimg.com/vi/qzXxac5J6Yk/maxresdefault.jpg",
     alt: "FrauenMediaTurm Köln",
   }
-tags: ["drinnen", "guided-tours"]
+tags: ["drinnen", "guided-tours", "koeln"]
 ---
 
 # Führungen im FrauenMediaTurm

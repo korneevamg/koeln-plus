@@ -2,7 +2,7 @@
 title: "Speiselokal Atempause in Köln"
 description: "Genießen Sie ein kulinarisches Erlebnis mit Hafenflair im Speiselokal Atempause in Köln, einem charmanten Restaurant, das für seine entspannte Atmosphäre und köstliche Küche bekannt ist"
 image: { url: "", alt: "Speiselokal Atempause Köln" }
-tags: ["drinnen", "sights"]
+tags: ["drinnen", "sights", "koeln"]
 ---
 
 # Speiselokal Atempause in Köln

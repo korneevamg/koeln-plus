@@ -6,7 +6,7 @@ image:
     url: "https://altefeuerwachekoeln.de/wp-content/uploads/2023/10/aktuelles-dscf3513.jpg",
     alt: "Alte Feuerwache Köln",
   }
-tags: ["drinnen", "draussen", "events"]
+tags: ["drinnen", "draussen", "events", "koeln"]
 ---
 
 # Alte Feuerwache Köln

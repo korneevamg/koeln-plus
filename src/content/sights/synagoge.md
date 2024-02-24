@@ -6,7 +6,7 @@ image:
     url: "https://www.sgk.de/wp-content/uploads/Synagoge_Roonstrasse_Koeln_-_Testing_Sigma_8-16-1024x586-1-e1600870348934.jpg",
     alt: "Synagogen-Gemeinde Köln Führungen",
   }
-tags: ["drinnen", "guided-tours"]
+tags: ["drinnen", "guided-tours", "koeln"]
 ---
 
 # Führungen der Synagogen-Gemeinde Köln

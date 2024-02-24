@@ -2,7 +2,7 @@
 title: "Kunstgalerien Kölns"
 description: "Entdecken Sie die vielfältige Kunstszene Kölns durch ihre renommierten Galerien und Kulturzentren"
 image: { url: "", alt: "Kunstgalerien in Köln" }
-tags: ["drinnen", "ideas"]
+tags: ["drinnen", "ideas", "koeln"]
 ---
 
 # Kunst und Kultur in Köln: Ein Leitfaden zu den besten Galerien

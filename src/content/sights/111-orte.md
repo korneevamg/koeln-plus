@@ -2,7 +2,7 @@
 title: "111 Orte in Köln, die man gesehen haben muss"
 description: "Entdecken Sie die verborgenen Schätze und einzigartigen Sehenswürdigkeiten Kölns"
 image: { url: "", alt: "Blick auf Köln" }
-tags: ["draussen", "drinnen", "sights"]
+tags: ["draussen", "drinnen", "koeln"]
 ---
 
 # 111 Orte in Köln, die man gesehen haben muss

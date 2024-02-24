@@ -6,7 +6,7 @@ image:
     url: "https://www.avgkoeln.de/service-presse/besichtigung/backgrounds/AVG_Fuehrungen.jpg",
     alt: "Restmüllverbrennungsanlage Niehl",
   }
-tags: ["drinnen", "guided-tours"]
+tags: ["drinnen", "guided-tours", "koeln"]
 ---
 
 # Restmüllverbrennungsanlage Besichtigung in Niehl

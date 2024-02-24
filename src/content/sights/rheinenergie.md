@@ -6,7 +6,7 @@ image:
     url: "https://www.rheinenergie.com/images/besichtigungen_header.jpg",
     alt: "RheinEnergie Besichtigungen",
   }
-tags: ["drinnen", "draussen", "guided-tours"]
+tags: ["drinnen", "draussen", "guided-tours", "umgebung"]
 ---
 
 # Besichtigungen bei der RheinEnergie

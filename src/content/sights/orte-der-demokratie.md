@@ -6,7 +6,7 @@ image:
     url: "https://www.boeckler.de/data/app-demokratie-koeln_rdax_2047x924_75s.jpg",
     alt: "Orte der Demokratie Köln",
   }
-tags: ["draussen", "guided-tours"]
+tags: ["draussen", "guided-tours", "koeln"]
 ---
 
 # Orte der Demokratie in Köln

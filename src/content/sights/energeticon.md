@@ -6,7 +6,7 @@ image:
     url: "https://fotos.verwaltungsportal.de/seitengenerator/gross/kachel_fuehrungen.png",
     alt: "Energeticon Alsdorf",
   }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "umgebung"]
 ---
 
 # Energeticon Alsdorf

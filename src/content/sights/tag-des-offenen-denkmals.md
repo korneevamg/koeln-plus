@@ -6,7 +6,7 @@ image:
     url: "https://www.denkmalschutz.de/fileadmin/_processed_/csm_Tag_des_offenen_Denkmals_Logo_0df8c01f7a.jpg",
     alt: "Tag des offenen Denkmals®",
   }
-tags: ["drinnen", "draussen", "events"]
+tags: ["drinnen", "draussen", "events", "koeln"]
 ---
 
 # Tag des offenen Denkmals®

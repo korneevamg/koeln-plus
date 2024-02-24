@@ -6,7 +6,7 @@ image:
     url: "https://www.dlr.de/de/bilder/dlr-allg-bilder/dlr-standort-koeln.jpg/@@images/image-1600-b05a7efa38f78a61d2a501377f744431.jpeg",
     alt: "DLR Köln",
   }
-tags: ["drinnen", "guided-tours"]
+tags: ["drinnen", "guided-tours", "koeln"]
 ---
 
 # Besucherführungen beim DLR in Köln

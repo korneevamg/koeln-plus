@@ -6,7 +6,7 @@ image:
     url: "http://www.schiffsbruecke.com/wp-content/uploads/2018/06/SB_sln1.jpg",
     alt: "Schiffsbrücke Rheinpark Köln",
   }
-tags: ["draussen", "sights"]
+tags: ["draussen", "sights", "umgebung"]
 ---
 
 # Schiffsbrücke Rheinpark Köln

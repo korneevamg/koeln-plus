@@ -6,7 +6,7 @@ image:
     url: "https://koeln.mitvergnuegen.com/resizer/images/7b227769647468223a313238302c22686569676874223a3732307d/wp-content/uploads/sites/4/2018/09/keith-davey-1yr-nr2xp6i-unsplash-scaled.jpg.webp",
     alt: "Blumen zum Selberschneiden auf dem Josefshof",
   }
-tags: ["draussen", "ideas"]
+tags: ["draussen", "ideas", "koeln"]
 ---
 
 # Blumen zum Selberschneiden auf dem Josefshof

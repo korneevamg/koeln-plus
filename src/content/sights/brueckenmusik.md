@@ -6,7 +6,7 @@ image:
     url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Deutzer_Br%C3%BCcke_und_K%C3%B6lner_Dom-4095.jpg/600px-Deutzer_Br%C3%BCcke_und_K%C3%B6lner_Dom-4095.jpg",
     alt: "Brückenmusik im Bauch der Deutzer Brücke",
   }
-tags: ["drinnen", "events"]
+tags: ["drinnen", "events", "koeln"]
 ---
 
 # Brückenmusik im Bauch der Deutzer Brücke

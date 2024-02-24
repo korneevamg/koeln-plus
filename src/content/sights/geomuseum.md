@@ -2,7 +2,7 @@
 title: "GeoMuseum der Universität zu Köln"
 description: "Das GeoMuseum der Universität zu Köln bietet eine faszinierende Sammlung von Mineralen, Meteoriten, Fossilien und mehr, die die Erdgeschichte und geologische Prozesse veranschaulichen."
 image: { url: "", alt: "GeoMuseum Universität Köln" }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "koeln"]
 ---
 
 # GeoMuseum der Universität zu Köln

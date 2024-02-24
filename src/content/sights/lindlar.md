@@ -2,7 +2,7 @@
 title: "LVR-Freilichtmuseum Lindlar – Bergische Tradition erleben"
 description: "Entdecke die bergische Kultur und Geschichte hautnah im LVR-Freilichtmuseum Lindlar."
 image: { url: "", alt: "LVR-Freilichtmuseum Lindlar" }
-tags: ["draussen", "museums"]
+tags: ["draussen", "museums", "umgebung"]
 ---
 
 # LVR-Freilichtmuseum Lindlar

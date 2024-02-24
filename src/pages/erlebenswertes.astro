@@ -36,8 +36,15 @@ export const sights = await getCollection("sights", ({ data }) =>
         <button id="draussenFilter" class="button inverted mb-8 me-4"
           >Nur drinnen</button
         >
-        <button id="drinnenFilter" class="button inverted mb-8"
+        <button id="drinnenFilter" class="button inverted mb-8 me-4"
           >Nur draußen</button
+        >
+        <button
+          id="koelnFilter"
+          class="button inverted color-secondary mb-8 me-4">Nur Köln</button
+        >
+        <button id="umgebungFilter" class="button inverted color-secondary mb-8"
+          >Nur Umgebung</button
         >
         <Accordion>
           <AccordionItem header="Führungen und Besichtigungen">
@@ -61,8 +68,10 @@ export const sights = await getCollection("sights", ({ data }) =>
   </section>
 </DefaultLayout>
 <script>
-  let draussenHidden = true;
-  let drinnenHidden = true;
+  let isDraussenVisible = true;
+  let isDrinnenVisible = true;
+  let isKoelnVisible = true;
+  let isUmgebungVisible = true;
 
   const filter = (
     filterActive: boolean,
@@ -77,23 +86,38 @@ export const sights = await getCollection("sights", ({ data }) =>
     // Need to
     if (elementsToBeHidden.length > 0) {
       const accordionPanel = elementsToBeHidden[0].closest(`.accordion__panel`);
-      if (accordionPanel) accordionPanel.style.height = "auto";
+      const isPanelOpen = elementsToBeHidden[0].closest(
+        `.accordion__header[aria-expended=true]`
+      );
+      if (accordionPanel && isPanelOpen) accordionPanel.style.height = "auto";
     }
     return !filterActive;
   };
 
   const hideDraussen = () => {
-    draussenHidden = filter(draussenHidden, "draussen", draussenFilter);
+    isDraussenVisible = filter(isDraussenVisible, "draussen", draussenFilter);
   };
 
   const hideDrinnen = () => {
-    drinnenHidden = filter(drinnenHidden, "drinnen", drinnenFilter);
+    isDrinnenVisible = filter(isDrinnenVisible, "drinnen", drinnenFilter);
+  };
+
+  const hideKoeln = () => {
+    isKoelnVisible = filter(isKoelnVisible, "umgebung", koelnFilter);
+  };
+
+  const hideUmgebung = () => {
+    isUmgebungVisible = filter(isUmgebungVisible, "koeln", umgebungFilter);
   };
 
   const draussenFilter = document.getElementById("draussenFilter");
   const drinnenFilter = document.getElementById("drinnenFilter");
+  const koelnFilter = document.getElementById("koelnFilter");
+  const umgebungFilter = document.getElementById("umgebungFilter");
   draussenFilter?.addEventListener("click", hideDraussen);
   drinnenFilter?.addEventListener("click", hideDrinnen);
+  koelnFilter?.addEventListener("click", hideKoeln);
+  umgebungFilter?.addEventListener("click", hideUmgebung);
 </script>
 <style lang="scss" is:global>
   .accordion__header {

@@ -6,7 +6,7 @@ image:
     url: "https://www.papajoes.de/wp-content/uploads/2013/01/ss03-300x222.jpg",
     alt: "Em Streckstrump Jazz Lokal Köln",
   }
-tags: ["drinnen", "events"]
+tags: ["drinnen", "events", "koeln"]
 ---
 
 # Em Streckstrump: Jazz-Abende in Köln

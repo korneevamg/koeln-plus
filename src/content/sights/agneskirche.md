@@ -6,7 +6,7 @@ image:
     url: "https://gemeinden.erzbistum-koeln.de/export/sites/gemeinden/st-agnes-koeln/.content/.galleries/images/_configuration/pfarrgemeinde_150px_ms.gif",
     alt: "St. Agnes Kirche Köln",
   }
-tags: ["drinnen", "events"]
+tags: ["drinnen", "events", "koeln"]
 ---
 
 # Kultur in St. Agnes Köln

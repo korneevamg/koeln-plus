@@ -6,7 +6,7 @@ image:
     url: "https://www.deutsches-tanzarchiv.de/fileadmin/_processed_/0/5/csm_2010-05-16_Museumstag-1464_8fee097802.jpg",
     alt: "Deutsches Tanzarchiv Köln",
   }
-tags: ["drinnen", "guided-tours"]
+tags: ["drinnen", "guided-tours", "koeln"]
 ---
 
 # Vermittlungsprogramme des Deutschen Tanzarchivs Köln

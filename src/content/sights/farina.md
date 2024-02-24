@@ -6,7 +6,7 @@ image:
     url: "https://farina.org/wp-content/uploads/2023/03/Farina-Duftmuseum-Sept-2022-08-scaled.jpg",
     alt: "Duftmuseum Farina Köln",
   }
-tags: ["drinnen", "guided-tours"]
+tags: ["drinnen", "guided-tours", "koeln"]
 ---
 
 # Duftmuseum Farina

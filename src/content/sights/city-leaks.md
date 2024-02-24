@@ -6,7 +6,7 @@ image:
     url: "https://cityleaks-festival.de/images/Research/reframinglichtstrasse/Gallery/reframing-lichtstrasse-memory-station-finissage-koeln-2019-janis-idel-13.jpg",
     alt: "CityLeaks Street Art Touren Köln",
   }
-tags: ["draussen", "guided-tours"]
+tags: ["draussen", "guided-tours", "koeln"]
 ---
 
 # CityLeaks Street Art Touren

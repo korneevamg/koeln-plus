@@ -6,7 +6,7 @@ image:
     url: "https://www.bahnhof-belvedere.de/s/img/emotionheader.jpg?1601764358.940px.210px",
     alt: "Bahnhof Belvedere Köln",
   }
-tags: ["drinnen", "guided-tours"]
+tags: ["drinnen", "guided-tours", "koeln"]
 ---
 
 # Öffentliche Führungen im Bahnhof Belvedere Köln - AKTUELL NICHT MÖGLICH

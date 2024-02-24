@@ -6,7 +6,7 @@ image:
     url: "https://wsf-neptun-koeln.de/wp-content/uploads/2020/12/cropped-DSCN1452-scaled-1.jpg",
     alt: "WSF Neptun Köln Paddelkurse",
   }
-tags: ["draussen", "events"]
+tags: ["draussen", "events", "umgebung"]
 ---
 
 # Einsteigerkurse im Paddeln beim WSF Neptun Köln

@@ -6,7 +6,7 @@ image:
     url: "https://i0.wp.com/koelner-zoolauf.de/wp-content/uploads/sites/7/2020/05/cropped-Website-Background-2020.jpg?resize=820%2C360&ssl=1",
     alt: "Kölner Zoolauf",
   }
-tags: ["draussen", "events"]
+tags: ["draussen", "events", "koeln"]
 ---
 
 # Kölner Zoolauf

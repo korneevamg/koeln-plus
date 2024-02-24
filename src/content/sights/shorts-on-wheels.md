@@ -6,7 +6,7 @@ image:
     url: "https://www.kffk.de/wp-content/uploads/2017/05/PF_0011-e1495356258792.jpg",
     alt: "Shorts on Wheels Kurzfilmfestival",
   }
-tags: ["draussen", "events"]
+tags: ["draussen", "events", "koeln"]
 ---
 
 # Shorts on Wheels - Kölner Kurzfilmfestival auf Rädern

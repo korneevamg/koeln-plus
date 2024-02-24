@@ -2,7 +2,7 @@
 title: "Sternenwanderungen in der Eifel"
 description: "Erlebe die Faszination des Nachthimmels bei einer Sternenwanderung in der malerischen Eifel."
 image: { url: "", alt: "Sternenwanderung in der Eifel" }
-tags: ["drinnen", "events"]
+tags: ["drinnen", "events", "umgebung"]
 ---
 
 # Sternenwanderungen in der Eifel

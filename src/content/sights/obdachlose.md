@@ -6,7 +6,7 @@ image:
     url: "https://content.actionbound.com/user/6285322cccea8059fee2ec1f/image/bi/1678867908.jpg",
     alt: "Stadtgeschichten Audioguide Köln",
   }
-tags: ["draussen", "guided-tours"]
+tags: ["draussen", "guided-tours", "koeln"]
 ---
 
 # Stadtgeschichten: Audioguide über Köln

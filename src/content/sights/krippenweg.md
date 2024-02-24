@@ -2,7 +2,7 @@
 title: "Kölner Krippenweg – Eine weihnachtliche Tradition"
 description: "Erlebe den Zauber des Kölner Krippenwegs, der dich durch die festlich geschmückte Stadt führt."
 image: { url: "", alt: "Kölner Krippenweg" }
-tags: ["draussen", "events", "sights"]
+tags: ["draussen", "events", "sights", "koeln"]
 ---
 
 # Kölner Krippenweg

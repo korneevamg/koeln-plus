@@ -6,7 +6,7 @@ image:
     url: "https://artheater.de/fileadmin/user_upload/KGB_Standard.jpg",
     alt: "Kunst Gegen Bares Köln",
   }
-tags: ["drinnen", "events"]
+tags: ["drinnen", "events", "koeln"]
 ---
 
 # Kunst Gegen Bares: Kreative Vielfalt in Köln

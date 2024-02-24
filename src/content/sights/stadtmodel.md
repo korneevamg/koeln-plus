@@ -2,7 +2,7 @@
 title: "Das Kölner Stadtmodell im Lichthof des Spanischen Baus"
 description: "Erleben Sie das beeindruckende Kölner Stadtmodell im Maßstab 1:500, das einen detaillierten Einblick in die Architektur und zukünftige Stadtentwicklungsprojekte von Köln bietet."
 image: { url: "", alt: "Kölner Stadtmodell im Lichthof des Spanischen Baus" }
-tags: ["drinnen", "sights"]
+tags: ["drinnen", "sights", "koeln"]
 ---
 
 # Das Kölner Stadtmodell im Lichthof des Spanischen Baus

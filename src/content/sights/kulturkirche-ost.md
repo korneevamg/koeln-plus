@@ -6,7 +6,7 @@ image:
     url: "https://kulturkirche-ost.de/wp-content/uploads/2017/05/MG_0473ausschnitt-100x50.jpeg",
     alt: "Kulturkirche Ost Köln",
   }
-tags: ["drinnen", "events"]
+tags: ["drinnen", "events", "koeln"]
 ---
 
 # Veranstaltungen in der Kulturkirche Ost

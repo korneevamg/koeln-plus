@@ -2,7 +2,7 @@
 title: "Jawne - Ein Zentrum jüdischer Kultur und Bildung in Köln"
 description: "Jawne dient als wichtige Anlaufstelle für jüdische Kultur und Bildung in Köln, mit einem breiten Angebot an Veranstaltungen, Programmen und Bildungsinitiativen."
 image: { url: "", alt: "Jawne Köln" }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "koeln"]
 ---
 
 # Jawne - Ein Zentrum jüdischer Kultur und Bildung in Köln

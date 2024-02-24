@@ -6,7 +6,7 @@ image:
     url: "https://hsk.koeln//images/hintergrundbild2.webp",
     alt: "Straßenbahnmuseum Thielenbruch",
   }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "koeln"]
 ---
 
 # Straßenbahnmuseum Thielenbruch

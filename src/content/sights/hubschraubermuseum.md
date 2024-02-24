@@ -6,7 +6,7 @@ image:
     url: "https://www.hubschraubermuseum.de/images/museum_aussenansicht.jpg",
     alt: "Hubschraubermuseum Bückeburg",
   }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "umgebung"]
 ---
 
 # Hubschraubermuseum Bückeburg

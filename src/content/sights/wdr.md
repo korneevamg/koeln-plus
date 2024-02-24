@@ -6,7 +6,7 @@ image:
     url: "https://www1.wdr.de/radio/1live/on-air/moderatoren/wir-ueber-uns100~_v-gseapremiumxl.jpg",
     alt: "WDR Hausführungen",
   }
-tags: ["drinnen", "guided-tours"]
+tags: ["drinnen", "guided-tours", "koeln"]
 ---
 
 # Hausführungen im WDR

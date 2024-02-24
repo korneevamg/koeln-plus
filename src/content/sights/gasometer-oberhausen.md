@@ -6,7 +6,7 @@ image:
     url: "https://www.gasometer.de/sites/default/files/styles/teaser/public/2022-05/gasometer-oberhausen-aussenansicht-nachts_0.jpg",
     alt: "Gasometer Oberhausen",
   }
-tags: ["drinnen", "events"]
+tags: ["drinnen", "events", "umgebung"]
 ---
 
 # Gasometer Oberhausen

@@ -6,7 +6,7 @@ image:
     url: "https://img.youtube.com/vi/Sbs61UPuB-E/maxresdefault.jpg",
     alt: "Ford Werke Besichtigung in Niehl",
   }
-tags: ["drinnen", "guided-tours"]
+tags: ["drinnen", "guided-tours", "koeln"]
 ---
 
 # Ford Werke Besichtigung in Niehl

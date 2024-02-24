@@ -6,7 +6,7 @@ image:
     url: "https://imageflow.rausgegangen.de/url/https%3A//s3.eu-central-1.amazonaws.com/rausgegangen/HE9ZqXD2RK28bpJGSCdA_4.png?width=1200&height=900&mode=crop",
     alt: "Geheimkonzerte Köln",
   }
-tags: ["draussen", "drinnen", "events"]
+tags: ["draussen", "drinnen", "events", "koeln"]
 ---
 
 # Geheimkonzerte in Köln

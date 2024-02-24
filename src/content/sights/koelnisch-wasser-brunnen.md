@@ -6,7 +6,7 @@ image:
     url: "https://www.koeln-lotse.de/wp-content/uploads/2019/03/Koelnisch-Wasser-Brunnen-Kreissparkasse-1024x768.jpg",
     alt: "Kölnisch-Wasser-Brunnen",
   }
-tags: ["drinnen", "sights"]
+tags: ["drinnen", "sights", "koeln"]
 ---
 
 # Kölnisch-Wasser-Brunnen

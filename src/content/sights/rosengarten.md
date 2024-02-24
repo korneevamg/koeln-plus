@@ -6,7 +6,7 @@ image:
     url: "https://www.stadt-koeln.de/images/fort_x_rosengarten.jpg",
     alt: "Rosengarten im Fort X",
   }
-tags: ["draussen", "sights"]
+tags: ["draussen", "sights", "koeln"]
 ---
 
 # Rosengarten im Fort X

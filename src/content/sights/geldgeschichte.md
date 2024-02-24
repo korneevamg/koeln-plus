@@ -6,7 +6,7 @@ image:
     url: "https://www.ksk-koeln.de/de/home/ihre-sparkasse/geldgeschichte/_jcr_content/opener/openerref.epimgref.jpg/1580297742221.jpg",
     alt: "KSK-Köln Museum Geldgeschichte",
   }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "koeln"]
 ---
 
 # Geldgeschichte im KSK-Köln Museum

@@ -6,7 +6,7 @@ image:
     url: "https://lh3.googleusercontent.com/p/AF1QipNY8A9MeZry6JIXThyajJpaMhaZ379XTNu9cFr_=s1360-w1360-h1020",
     alt: "Pub Quiz im Copper Pot",
   }
-tags: ["drinnen", "events"]
+tags: ["drinnen", "events", "koeln"]
 ---
 
 # Pub Quiz im Copper Pot

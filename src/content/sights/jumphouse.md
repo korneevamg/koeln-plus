@@ -2,7 +2,7 @@
 title: "Jump House - Trampolinspaß in Köln"
 description: "Erleben Sie ultimativen Spaß und Action in der Jump House Trampolinhalle in Köln, perfekt für alle Altersgruppen und Fitnesslevel"
 image: { url: "", alt: "Jump House Köln" }
-tags: ["drinnen", "sights"]
+tags: ["drinnen", "sights", "koeln"]
 ---
 
 # Jump House - Trampolinspaß in Köln

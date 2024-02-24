@@ -6,7 +6,7 @@ image:
     url: "https://www.zeitreisestrom.de/assets/generated/pictures/133379/kdcN8/zs_weihnachtskarte_2023_1.jpg",
     alt: "Deutsches Elektrizitätsmuseum",
   }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "umgebung"]
 ---
 
 # Zeitreise Strom – Das Deutsche Elektrizitätsmuseum

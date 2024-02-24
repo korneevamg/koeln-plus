@@ -2,7 +2,7 @@
 title: "Eifelmuseum & Deutsches Schieferbergwerk Mayen – Entdecke die Geschichte der Eifel"
 description: "Erlebe die spannende Welt der Eifel und des Schieferabbaus im Eifelmuseum und dem Deutschen Schieferbergwerk in der Genovevaburg in Mayen."
 image: { url: "", alt: "Eifelmuseum & Deutsches Schieferbergwerk Mayen" }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "umgebung"]
 ---
 
 # Eifelmuseum & Deutsches Schieferbergwerk Mayen

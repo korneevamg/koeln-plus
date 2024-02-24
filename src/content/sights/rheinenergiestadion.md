@@ -6,7 +6,7 @@ image:
     url: "https://www.rheinenergiestadion.de/wp-content/uploads/2021/01/L1008096_Kopie.jpg",
     alt: "RheinEnergieStadion Köln",
   }
-tags: ["drinnen", "guided-tours"]
+tags: ["drinnen", "guided-tours", "koeln"]
 ---
 
 # Stadionführungen im RheinEnergieStadion

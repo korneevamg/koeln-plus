@@ -6,7 +6,7 @@ image:
     url: "https://img.aachener-zeitung.de/public/lokales/dondlm-2914175021-24e9539bd9.irprodgera-i8wez2.jpg/alternates/SIXTEEN_NINE_1920/2914175021_24e9539bd9.irprodgera_i8wez2.jpg",
     alt: "Herbstleuchten im Park Jülich",
   }
-tags: ["draussen", "events"]
+tags: ["draussen", "events", "umgebung"]
 ---
 
 # Herbstleuchten im Park - Jülich

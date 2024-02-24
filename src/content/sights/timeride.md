@@ -6,7 +6,7 @@ image:
     url: "https://timeride.de/wp-content/uploads/2023/07/koeln_gruppe-mit-vr-brillen-in-senseum-bahnf_schnelleinstieg-links.jpg",
     alt: "TimeRide Köln VR-Erlebnis",
   }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "koeln"]
 ---
 
 # TimeRide Köln

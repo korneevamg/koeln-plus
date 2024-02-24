@@ -6,7 +6,7 @@ image:
     url: "https://www.bpb.de/cache/images/0/757020_teaser_3x2_400.jpg?7F8F3",
     alt: "Veranstaltungen in der Stadtbibliothek Köln",
   }
-tags: ["drinnen", "events"]
+tags: ["drinnen", "events", "koeln"]
 ---
 
 # Bibliotheks-Begegnungen in Köln

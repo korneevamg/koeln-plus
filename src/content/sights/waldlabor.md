@@ -6,7 +6,7 @@ image:
     url: "https://www.koeln-waldlabor.de/images/waldlabor_header.jpg",
     alt: "Waldlabor Köln",
   }
-tags: ["draussen", "ideas"]
+tags: ["draussen", "ideas", "koeln"]
 ---
 
 # Waldlabor Köln

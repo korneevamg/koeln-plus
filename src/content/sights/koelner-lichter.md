@@ -6,7 +6,7 @@ image:
     url: "https://koelner-lichter.de/bilder/head/index/0.jpg",
     alt: "Kölner Lichter Feuerwerk am Rhein",
   }
-tags: ["draussen", "events"]
+tags: ["draussen", "events", "koeln"]
 ---
 
 # Kölner Lichter

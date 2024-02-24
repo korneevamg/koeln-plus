@@ -6,7 +6,7 @@ image:
     url: "https://koelntourist.net/wp-content/uploads/2023/10/Hafen2023.jpg",
     alt: "Große Kölner Hafentour",
   }
-tags: ["draussen", "guided-tours"]
+tags: ["draussen", "guided-tours", "koeln"]
 ---
 
 # Rundfahrten und Besichtigungen der HGK

@@ -6,7 +6,7 @@ image:
     url: "https://moselkanuverleih.de/wp-content/uploads/pexels-op-12323326-scaled.jpg",
     alt: "Kanutouren an der Mosel",
   }
-tags: ["draussen", "ideas"]
+tags: ["draussen", "ideas", "umgebung"]
 ---
 
 # Kanutouren an der Mosel

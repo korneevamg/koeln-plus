@@ -15,26 +15,30 @@
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
     border-color 0.15s ease-in-out;
 
-  &:hover,
-  &:focus {
-    text-decoration: underline;
-    background-color: var(--primary-200);
-    border-color: var(--primary-200);
-  }
-
   &:visited {
     color: var(--neutral-900);
   }
 
   &.color-secondary {
     background-color: var(--secondary-100);
-    border-color: (var(--secondary-100));
+    border-color: (var(--secondary-400));
+  }
 
-    &:hover,
-    &:focus {
-      background-color: var(--secondary-400);
-      border-color: var(--secondary-400);
-    }
+  &.inverted {
+    background-color: var(--neutral-100);
+  }
+
+  &.color-secondary:hover,
+  :focus {
+    background-color: var(--secondary-400);
+    border-color: var(--secondary-400);
+  }
+
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+    background-color: var(--primary-200);
+    border-color: var(--primary-200);
   }
 
   &.color-neutral {
@@ -139,10 +143,6 @@
       height: auto;
       width: 30px;
     }
-  }
-
-  &.inverted {
-    background-color: var(--neutral-100);
   }
 }
 

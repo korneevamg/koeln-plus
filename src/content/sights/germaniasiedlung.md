@@ -6,7 +6,7 @@ image:
     url: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Germaniasiedlung%2C_Weimarer_Stra%C3%9Fe.jpg",
     alt: "Germaniasiedlung in Köln",
   }
-tags: ["draussen", "sights"]
+tags: ["draussen", "sights", "koeln"]
 ---
 
 # Germaniasiedlung

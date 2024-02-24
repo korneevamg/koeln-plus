@@ -6,7 +6,7 @@ image:
     url: "https://example.com/roehrenbunker.jpg",
     alt: "Röhrenbunker am Oberlandesgericht Köln",
   }
-tags: ["drinnen", "fuehrung"]
+tags: ["drinnen", "fuehrung", "koeln"]
 ---
 
 # Röhrenbunker am Oberlandesgericht Köln

@@ -2,7 +2,7 @@
 title: "Mopedmuseum NRW - Faszinierende Geschichte der Mopeds"
 description: "Erkunden Sie die faszinierende Geschichte und Entwicklung der Mopeds im Mopedmuseum NRW, einem einzigartigen Ort für Motorrad-Enthusiasten und Geschichtsinteressierte"
 image: { url: "", alt: "Mopedmuseum NRW" }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "umgebung"]
 ---
 
 # Mopedmuseum NRW - Faszinierende Geschichte der Mopeds

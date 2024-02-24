@@ -6,7 +6,7 @@ image:
     url: "https://www.roemergrab.de/wp-content/uploads/2019/08/Sarkophag-1140x450.jpg",
     alt: "Römische Grabkammer in Köln-Weiden",
   }
-tags: ["drinnen", "guided-tours"]
+tags: ["drinnen", "guided-tours", "koeln"]
 ---
 
 # Römische Grabkammer in Köln-Weiden

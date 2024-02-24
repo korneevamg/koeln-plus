@@ -6,7 +6,7 @@ image:
     url: "https://www.volkssternwartekoeln.de/wp-content/uploads/2023/04/Ameisenansicht-der-Beobachtungskuppel-2048x1365.jpg",
     alt: "Volkssternwarte Köln",
   }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "koeln"]
 ---
 
 # Volkssternwarte Köln

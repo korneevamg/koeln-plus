@@ -6,7 +6,7 @@ image:
     url: "https://barbarastollen.uni-koeln.de/sites/barbarastollen/_processed_/f/a/csm_Barbarastollen.007_1f91f718fe.jpg",
     alt: "Barbarastollen der Universität zu Köln",
   }
-tags: ["drinnen", "guided-tours"]
+tags: ["drinnen", "guided-tours", "koeln"]
 ---
 
 # Barbarastollen der Universität zu Köln

@@ -6,7 +6,7 @@ image:
     url: "https://www.halloweenrun-koeln.de/wp-content/uploads/logo2x.png",
     alt: "Halloween Run Köln",
   }
-tags: ["draussen", "events"]
+tags: ["draussen", "events", "koeln"]
 ---
 
 # Halloween Run Köln

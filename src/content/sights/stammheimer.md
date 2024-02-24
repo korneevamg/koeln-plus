@@ -6,7 +6,7 @@ image:
     url: "https://www.stadt-koeln.de/images/stammheimer_schlosspark.jpg",
     alt: "Stammheimer Schlosspark",
   }
-tags: ["draussen", "ideas"]
+tags: ["draussen", "ideas", "koeln"]
 ---
 
 # Stammheimer Schlosspark

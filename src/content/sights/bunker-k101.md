@@ -6,7 +6,7 @@ image:
     url: "https://www.bunkerk101.de/wp-content/uploads/2020/03/62591752_2069644483141722_7784206187628593152_o.jpg",
     alt: "Bunker k101 Köln",
   }
-tags: ["drinnen", "events"]
+tags: ["drinnen", "events", "koeln"]
 ---
 
 # Bunkerk101 in Köln

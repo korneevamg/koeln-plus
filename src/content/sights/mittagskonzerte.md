@@ -6,7 +6,7 @@ image:
     url: "https://koeln.mitvergnuegen.com/wp-content/uploads/sites/4/2018/02/philharmonie.jpg",
     alt: "PhilharmonieLunch Konzert",
   }
-tags: ["drinnen", "events"]
+tags: ["drinnen", "events", "koeln"]
 ---
 
 # PhilharmonieLunch

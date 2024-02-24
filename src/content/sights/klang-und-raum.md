@@ -6,7 +6,7 @@ image:
     url: "https://www.empulsiv.de//images/icagenda/thumbs/themes/ic_large_w900h600q100_klang-und-raum-ambient-festival.jpg",
     alt: "Klang und Raum Köln",
   }
-tags: ["drinnen", "events"]
+tags: ["drinnen", "events", "koeln"]
 ---
 
 # Klang und Raum in Köln

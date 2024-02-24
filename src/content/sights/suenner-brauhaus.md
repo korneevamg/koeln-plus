@@ -6,7 +6,7 @@ image:
     url: "//www.brauwelt-koeln.de/cdn/shop/files/Brauwelt_-_Koeln_-_Sudhaus_-_Brauerei_180x.jpg?v=1661598777",
     alt: "Sünner Brauereibesichtigung Kalk",
   }
-tags: ["drinnen", "guided-tours"]
+tags: ["drinnen", "guided-tours", "koeln"]
 ---
 
 # Sünner Brauereibesichtigung Kalk

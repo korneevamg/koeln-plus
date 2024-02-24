@@ -6,7 +6,7 @@ image:
     url: "https://www.guidigo.com/Image/DownloadImageForDevice/tourthumb1d03ad97-e151-4a76-9660-f268fc91e398cover.jpeg/publish/428",
     alt: "Geführte Tour durch Marienburg in Köln",
   }
-tags: ["draussen", "guided-tours"]
+tags: ["draussen", "guided-tours", "koeln"]
 ---
 
 # Geführte Tour durch Marienburg: Kölns exklusives Viertel

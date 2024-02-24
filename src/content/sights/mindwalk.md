@@ -6,7 +6,7 @@ image:
     url: "https://mindwalk.events/images/homepage.jpg",
     alt: "Mindwalk Abenteuer",
   }
-tags: ["draussen", "events"]
+tags: ["draussen", "events", "koeln"]
 ---
 
 # Mindwalk: Abenteuer in deiner Stadt

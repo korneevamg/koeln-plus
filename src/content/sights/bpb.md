@@ -2,7 +2,7 @@
 title: "Veranstaltungen der Bundeszentrale für politische Bildung"
 description: "Erweitern Sie Ihr Verständnis von aktuellen gesellschaftlichen und politischen Themen durch die vielfältigen Veranstaltungen der Bundeszentrale für politische Bildung"
 image: { url: "", alt: "Bundeszentrale für politische Bildung Veranstaltungen" }
-tags: ["drinnen", "events"]
+tags: ["drinnen", "events", "koeln"]
 ---
 
 # Veranstaltungen der Bundeszentrale für politische Bildung

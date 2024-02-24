@@ -2,7 +2,7 @@
 title: "Deutsches Telefon-Museum Morbach – Kommunikationsgeschichte hautnah"
 description: "Erlebe die Entwicklung der Telekommunikation von den Anfängen bis zur Moderne im Deutschen Telefon-Museum in Morbach."
 image: { url: "", alt: "Deutsches Telefon-Museum Morbach" }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "umgebung"]
 ---
 
 # Deutsches Telefon-Museum Morbach

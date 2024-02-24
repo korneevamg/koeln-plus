@@ -6,7 +6,7 @@ image:
     url: "https://www.adkdw.org/images/20221022-171705.jpg?w=828",
     alt: "Akademie der Künste der Welt Köln",
   }
-tags: ["drinnen", "events"]
+tags: ["drinnen", "events", "koeln"]
 ---
 
 # Akademie der Künste der Welt Köln

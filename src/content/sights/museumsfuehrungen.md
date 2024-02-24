@@ -6,7 +6,7 @@ image:
     url: "https://museenkoeln.de/portal/medien/abb/430/50404__150826_5903506_lo.jpg",
     alt: "Kölner Museen Veranstaltungskalender",
   }
-tags: ["drinnen", "guided-tours"]
+tags: ["drinnen", "guided-tours", "koeln"]
 ---
 
 # Veranstaltungskalender der Kölner Museen

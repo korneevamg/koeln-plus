@@ -6,7 +6,7 @@ image:
     url: "https://www.koeln-bonn-airport.de/fileadmin/_processed_/d/b/csm_besucherservice_ed55d3fb08.jpg",
     alt: "Führungen am Köln/Bonn Flughafen",
   }
-tags: ["drinnen", "guided-tours"]
+tags: ["drinnen", "guided-tours", "koeln"]
 ---
 
 # Führungen am Köln/Bonn Flughafen

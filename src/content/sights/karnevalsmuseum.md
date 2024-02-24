@@ -6,7 +6,7 @@ image:
     url: "https://koelnerkarneval.de/fileadmin/_processed_/3/7/csm_20161031-tb-karnevalsmuseum-020_376188c928.jpg",
     alt: "Kölner Karnevalsmuseum",
   }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "koeln"]
 ---
 
 # Kölner Karnevalsmuseum - AKTUELL GESCHLOSSEN

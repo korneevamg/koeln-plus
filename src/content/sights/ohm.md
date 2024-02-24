@@ -6,7 +6,7 @@ image:
     url: "https://www.hmdb.org/m.asp?m=131172",
     alt: "Gedenktafel zu Georg Simon Ohm",
   }
-tags: ["draussen", "sights"]
+tags: ["draussen", "sights", "koeln"]
 ---
 
 # Gedenktafel zu Georg Simon Ohm

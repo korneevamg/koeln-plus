@@ -6,7 +6,7 @@ image:
     url: "https://www.brauhausfuehrungen-koeln.de/assets/Brauhausfuehrungen-Koeln-Brauhausschild@440w.13a58f3c.webp",
     alt: "Brauhausführungen in Köln",
   }
-tags: ["drinnen", "guided-tours"]
+tags: ["drinnen", "guided-tours", "koeln"]
 ---
 
 # Brauhausführungen in Köln

@@ -6,7 +6,7 @@ image:
     url: "https://i.ytimg.com/vi/1uHFQFT89Rc/maxresdefault.jpg",
     alt: "Centrum Schwule Geschichte Köln",
   }
-tags: ["drinnen", "draussen", "events"]
+tags: ["drinnen", "draussen", "events", "koeln"]
 ---
 
 # Centrum Schwule Geschichte

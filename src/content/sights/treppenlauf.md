@@ -1,12 +1,8 @@
 ---
 title: "Kölner Treppenlauf"
 description: "Nehmen Sie Herausforderung an beim Kölner Treppenlauf, einem einzigartigen sportlichen Event, das Ausdauer und Geschicklichkeit in der malerischen Umgebung Kölns testet"
-image:
-  {
-    url: "www.koelner-treppenlauf.de/wp-content/uploads/230813_KoelnTurmTreppenlauf-269-100x50.jpg",
-    alt: "Kölner Treppenlauf",
-  }
-tags: ["drinnen", "events"]
+image: { url: "", alt: "Kölner Treppenlauf" }
+tags: ["drinnen", "events", "koeln"]
 ---
 
 # Kölner Treppenlauf

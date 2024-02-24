@@ -6,7 +6,7 @@ image:
     url: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Regierungsbunker_Ahrweiler_Innenansicht.jpg",
     alt: "Innenansicht des Regierungsbunkers",
   }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "umgebung"]
 ---
 
 # Regierungsbunker

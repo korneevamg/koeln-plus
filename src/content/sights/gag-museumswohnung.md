@@ -6,7 +6,7 @@ image:
     url: "https://www.gag-koeln.de/wp-content/uploads/2013/03/07_10_400_museumswohnung_3_1290x390.jpg",
     alt: "Museumswohnung der GAG Immobilien AG Köln",
   }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "koeln"]
 ---
 
 # Museumswohnung der GAG Immobilien AG

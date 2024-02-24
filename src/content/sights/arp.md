@@ -6,7 +6,7 @@ image:
     url: "https://arpmuseum.org/media/arpform_community_vorab.svg",
     alt: "Bahnhof Rolandseck Arp Museum",
   }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "umgebung"]
 ---
 
 # Bahnhof Rolandseck Arp Museum

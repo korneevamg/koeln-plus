@@ -6,7 +6,7 @@ image:
     url: "https://image.jimcdn.com/app/cms/image/transf/none/path/s75ea7943b036f788/background/i5073354efd73af6b/version/1428086682/image.jpg",
     alt: "Weihnachtsmarkt im Wald bei Overath",
   }
-tags: ["draussen", "events"]
+tags: ["draussen", "events", "umgebung"]
 ---
 
 # Weihnachtszauber in Kreutzhäuschen

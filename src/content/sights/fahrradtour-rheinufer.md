@@ -6,7 +6,7 @@ image:
     url: "https://www.stadt-koeln.de/images/fahrradtour_rheinufer.jpg",
     alt: "Radtour am Rheinufer",
   }
-tags: ["draussen", "ideas"]
+tags: ["draussen", "ideas", "koeln"]
 ---
 
 # Radtouren in und um Köln

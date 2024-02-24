@@ -6,7 +6,7 @@ image:
     url: "http://www.koelner-planetarium.de/tour/PIC6_30.jpg",
     alt: "Kölner Planetarium",
   }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "koeln"]
 ---
 
 # Kölner Planetarium

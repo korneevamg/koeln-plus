@@ -6,7 +6,7 @@ image:
     url: "https://www.forumterranova.de/images/terranova.jpg",
     alt: "Forum Terra+nova Restaurant",
   }
-tags: ["drinnen", "ideas"]
+tags: ["drinnen", "ideas", "umgebung"]
 ---
 
 # Forum Terra+nova: Restaurant mit Blick auf den Tagebau Hambach

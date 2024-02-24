@@ -6,7 +6,7 @@ image:
     url: "https://reim-in-flammen.de/wp-content/uploads/2023/11/cDiana-Lim_Reim-in-Flammen-24-10-202319-300x225.jpg",
     alt: "Reim in Flammen Event",
   }
-tags: ["drinnen", "events"]
+tags: ["drinnen", "events", "koeln"]
 ---
 
 # Reim in Flammen

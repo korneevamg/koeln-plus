@@ -6,7 +6,7 @@ image:
     url: "https://www.koeln.de/files/images/melaten_565_1.jpg",
     alt: "Melaten-Friedhof Köln",
   }
-tags: ["draussen", "guided-tours"]
+tags: ["draussen", "guided-tours", "koeln"]
 ---
 
 # Melaten-Friedhof Rundgang

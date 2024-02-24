@@ -6,7 +6,7 @@ image:
     url: "https://upload.wikimedia.org/wikipedia/commons/2/29/Bottm%C3%BChle_%28K%C3%B6ln%29_2013-09-15.jpg",
     alt: "Bottmühle in Köln",
   }
-tags: ["drinnen", "sights"]
+tags: ["drinnen", "sights", "koeln"]
 ---
 
 # Bottmühle

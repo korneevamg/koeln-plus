@@ -6,7 +6,7 @@ image:
     url: "https://vhs-koeln.de/cmx/ordner/.cache/images/x535…75f45e264/cmx65a676da2c102616/FS65a676dddaeaf.jpg",
     alt: "Führungen der VHS Köln",
   }
-tags: ["drinnen", "draussen", "events"]
+tags: ["drinnen", "draussen", "events", "koeln"]
 ---
 
 # Führungen der VHS Köln

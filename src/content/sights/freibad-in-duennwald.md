@@ -6,7 +6,7 @@ image:
     url: "https://waldbad-camping.de/images/event_nacht_der_1000_lichter.jpg",
     alt: "Nacht der 1000 Lichter im Dünnwalder Waldbad",
   }
-tags: ["draussen", "events"]
+tags: ["draussen", "events", "koeln"]
 ---
 
 # Nacht der 1000 Lichter im Dünnwalder Waldbad

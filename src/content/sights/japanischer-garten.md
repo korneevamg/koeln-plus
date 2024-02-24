@@ -6,7 +6,7 @@ image:
     url: "https://www.leverkusen.de/leben-in-lev/stadtportraet/Japanischer_Garten.php.media/60332/Teehaus_Japanischer_Garten_fruehling__42_.jpg.scaled/cd7b2f1c1b7fc1827cb623c9812e0502.jpg",
     alt: "Japanischer Garten Leverkusen",
   }
-tags: ["draussen", "sights"]
+tags: ["draussen", "sights", "umgebung"]
 ---
 
 # Japanischer Garten Leverkusen

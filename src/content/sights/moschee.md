@@ -6,7 +6,7 @@ image:
     url: "https://moscheeforum.de/wp-content/uploads/2020/03/Moschee-Forum52-scaled-e1583794176198.jpg",
     alt: "Moscheeführungen im MoscheeForum Köln",
   }
-tags: ["drinnen", "guided-tours"]
+tags: ["drinnen", "guided-tours", "koeln"]
 ---
 
 # Moscheeführungen im MoscheeForum

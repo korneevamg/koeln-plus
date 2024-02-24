@@ -6,7 +6,7 @@ image:
     url: "https://www.polarlicht-reisen.de/angebote/flug/links.jpg",
     alt: "Polarlichter-Flug",
   }
-tags: ["drinnen", "events"]
+tags: ["drinnen", "events", "koeln"]
 ---
 
 # Polarlichter-Flug

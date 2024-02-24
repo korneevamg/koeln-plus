@@ -6,7 +6,7 @@ image:
     url: "https://roentgenmuseum.de/images/museum_frontansicht.jpg",
     alt: "Deutsches Röntgen-Museum",
   }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "umgebung"]
 ---
 
 # Deutsches Röntgen-Museum in Remscheid

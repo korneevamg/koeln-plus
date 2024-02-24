@@ -2,7 +2,7 @@
 title: "Weinmuseum Köln"
 description: "Tauchen Sie ein in die faszinierende Welt des Weines im Weinmuseum Köln, wo Sie alles über die Geschichte, Herstellung und Kultur des Weines erfahren können"
 image: { url: "", alt: "Weinmuseum Köln" }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "koeln"]
 ---
 
 # Weinmuseum Köln

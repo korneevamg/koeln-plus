@@ -6,7 +6,7 @@ image:
     url: "https://www.koeln.de/images/content/von-porz-ueber-die-felder-zur-siegfaehre_36424.jpg",
     alt: "Fahrradtour von Porz zur Siegfähre",
   }
-tags: ["draussen", "ideas"]
+tags: ["draussen", "ideas", "koeln"]
 ---
 
 # Fahrradtour von Porz zur Siegfähre

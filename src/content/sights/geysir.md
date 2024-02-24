@@ -2,7 +2,7 @@
 title: "Geysir Andernach – Ein spektakuläres Naturschauspiel"
 description: "Entdecke den höchsten Kaltwassergeysir der Welt in Andernach und erlebe ein außergewöhnliches Naturphänomen."
 image: { url: "", alt: "Geysir Andernach" }
-tags: ["draussen", "sights"]
+tags: ["draussen", "sights", "umgebung"]
 ---
 
 # Geysir Andernach

@@ -2,7 +2,7 @@
 title: "Veranstaltungskalender von Köln Tourismus"
 description: "Entdecken Sie spannende Veranstaltungen in Köln mit dem umfassenden Veranstaltungskalender von Köln Tourismus, von Kultur bis zu lokalen Festen."
 image: { url: "", alt: "Veranstaltungen in Köln" }
-tags: ["drinnen", "draussen", "events"]
+tags: ["drinnen", "draussen", "events", "koeln"]
 ---
 
 # Veranstaltungskalender von Köln Tourismus

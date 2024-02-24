@@ -6,7 +6,7 @@ image:
     url: "https://www.bundesbank-bunker.de/wp-content/uploads/2023/07/Header_Zugangsstollen.jpg",
     alt: "Bundesbank-Bunker Cochem",
   }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "umgebung"]
 ---
 
 # Bundesbank-Bunker Cochem

@@ -6,7 +6,7 @@ image:
     url: "https://u.jimcdn.com/cms/o/s0a0efdeff5979921/userlayout/img/blind-audition-erstes-dunkelkonzert-header2.png?t=1403700862",
     alt: "Blind Audition - Kölns erstes Dunkelkonzert",
   }
-tags: ["drinnen", "events"]
+tags: ["drinnen", "events", "koeln"]
 ---
 
 # Blind Audition

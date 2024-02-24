@@ -6,7 +6,7 @@ image:
     url: "https://www.buddybash.de/images/buddybash_header.jpg",
     alt: "Buddy Bash Event",
   }
-tags: ["drinnen", "ideas"]
+tags: ["drinnen", "ideas", "koeln"]
 ---
 
 # Buddy Bash – Das individuelle Teamevent

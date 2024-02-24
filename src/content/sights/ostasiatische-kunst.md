@@ -2,7 +2,7 @@
 title: "Kulturprogramm im Museum für Ostasiatische Kunst"
 description: "Entdecken Sie die Faszination ostasiatischer Kulturen im Museum für Ostasiatische Kunst in Köln"
 image: { url: "", alt: "Museum für Ostasiatische Kunst Köln" }
-tags: ["drinnen", "museums"]
+tags: ["drinnen", "museums", "koeln"]
 ---
 
 # Kulturprogramm im Museum für Ostasiatische Kunst

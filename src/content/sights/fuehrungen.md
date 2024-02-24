@@ -6,7 +6,7 @@ image:
     url: "https://verliebtinkoeln.com/wp-content/uploads/2022/03/kostenlose-fuehrungen-koeln-01.jpg",
     alt: "Unternehmen, die Führungen anbieten",
   }
-tags: ["draussen", "guided-tours"]
+tags: ["draussen", "guided-tours", "koeln"]
 ---
 
 [Stadtführungen & Erlebnisse](https://www.koelntourismus.de/buchen/stadtfuehrungen)

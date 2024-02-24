@@ -6,7 +6,7 @@ image:
     url: "https://www.domfuehrungen-koeln.de/_next/image?url=https%3A%2F%2Fapi.domfuehrungen-koeln.de%2Fuploads%2Fhead_dach_90dc44fcd4.jpg&w=1920&q=75",
     alt: "Domführungen Köln",
   }
-tags: ["drinnen", "guided-tours"]
+tags: ["drinnen", "guided-tours", "koeln"]
 ---
 
 # Domführungen Köln
